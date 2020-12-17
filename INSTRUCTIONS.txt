@@ -1,0 +1,30 @@
+WELCOME TO THE COMP-2068 FINAL
+
+WHAT IS ALLOWED:
+- you may use the internet to help you
+- you may use Discord/Slack to ask questions of colleagues
+- you may use your examples/course materials to help you with your test
+
+WHAT IS NOT ALLOWED:
+- you may NOT copy and/or paste code from a colleague
+- you may NOT copy and/or paste code from the internet
+- you may NOT ask Shaun fundamental course material questions that you should already know the answer too (I will definitely tell you that if you ask)
+- you will NOT receive an extension because you don't know the answers (on you to cover all missed material)
+
+INSTRUCTIONS:
+  Your application is broken. You cannot edit games or view them. You are tasked with fixing the application using your knowledge learned from the course. The following are the affected files. If you are looking in a file that is NOT one of the files listed below you are doing something wrong!
+
+  API:
+    /controllers/games.js
+    /models/game.js
+    /routes/games.js
+  CLIENT:
+    /src/components/Games
+      /index.jsx
+      /routes.jsx
+      /Form/index.jsx
+
+TIMEFRAME:
+- you may start right at 3:30pm
+- you have till 7pm with support from Shaun
+- you have till 9pm to submit your final
